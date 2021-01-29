@@ -1,0 +1,35 @@
+body {
+  background-color: #e2f5f6;
+  color: rgb(75, 73, 73);
+  font-family: "Montserrat", sans-serif;
+  padding: 30px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #1b9eaa;
+  font-weight: 600;
+}
+
+/* .image {
+  display: inline-block;
+}
+
+.intro {
+  display: inline-block;
+  padding-left: 20px;
+} */
+
+.rating {
+  color: #769699;
+}
+
+hr {
+  border: none;
+  border-top: 5px dotted;
+  height: 3px;
+  color: #b0bfc0;
+  width: 5%;
+}
